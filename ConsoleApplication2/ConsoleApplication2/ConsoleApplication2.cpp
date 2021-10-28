@@ -24,7 +24,7 @@ int main()
 			else F = 3 * x + 2 / c;
 		printf("F:%lf", F);
 	
-	
+	//ivan tyt
 
 	
 
